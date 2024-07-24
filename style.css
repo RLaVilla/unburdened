@@ -115,7 +115,7 @@ body {
     flex-direction: column;
     background-image: url(./images/demlogo.jpg);
     background-size: 12vw;
-    background-position: center;
+    background-position: top;
 } 
 .slogan {
     font-size: 5vw;
