@@ -114,6 +114,12 @@ body {
     text-shadow:  1vw 1vw 12px #000000;
     -webkit-text-stroke: .4vh #000000;
 }
+.ca {
+    font-size: 3vw;
+    font-family: "Red Hat Display", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
 .video-container {
     border: 5px solid #000;
     padding: 10px;
@@ -171,7 +177,7 @@ video {
     text-align: center;
     color: #000000;
     margin-bottom: 20px;
-    font-size: 6vw;
+    font-size: 5vw;
     font-family: "Pacifico", cursive;
     font-weight: 400;
     font-style: normal;
