@@ -92,7 +92,17 @@ body {
     background: rgba(203,203,203,255);
     width: 100%;
     text-align: center;
-
+}
+.ca {
+    font-size: 3vw;
+    font-family: "Red Hat Display", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    background-color: rgba(203,203,203,255);
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    padding-bottom: 4vh;
 }
 .content {
     margin-top: 0vh;
@@ -113,12 +123,6 @@ body {
     color: #000000;
     text-shadow:  1vw 1vw 12px #000000;
     -webkit-text-stroke: .4vh #000000;
-}
-.ca {
-    font-size: 3vw;
-    font-family: "Red Hat Display", sans-serif;
-    font-optical-sizing: auto;
-    font-style: normal;
 }
 .video-container {
     border: 5px solid #000;
